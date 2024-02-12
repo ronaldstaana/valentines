@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/valentines/static/css/main.13396022.css",
+    "main.js": "/valentines/static/js/main.bdc7e274.js",
+    "static/js/592.7a1f8794.chunk.js": "/valentines/static/js/592.7a1f8794.chunk.js",
+    "index.html": "/valentines/index.html",
+    "main.13396022.css.map": "/valentines/static/css/main.13396022.css.map",
+    "main.bdc7e274.js.map": "/valentines/static/js/main.bdc7e274.js.map",
+    "592.7a1f8794.chunk.js.map": "/valentines/static/js/592.7a1f8794.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.13396022.css",
+    "static/js/main.bdc7e274.js"
+  ]
+}
