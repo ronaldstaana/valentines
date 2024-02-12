@@ -1,0 +1,13 @@
+.custom-progress-bar {
+  background-color: pink !important;
+  border-radius: 0;
+}
+
+.custom-progress-bar .progress-bar {
+  background-color: #ff69b4 !important;
+}
+
+.btn-progress {
+  background-color: pink !important;
+  border-color: pink;
+}
